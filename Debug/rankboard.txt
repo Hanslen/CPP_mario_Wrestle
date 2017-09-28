@@ -1,0 +1,13 @@
+tom 50scores, loses the game
+sam 10scores, loses the game
+paul 10scores, loses the game
+jack 40scores, wins the game
+amy 40scores, loses the game
+april 30scores, loses the game
+hanslen 10scores, loses the game
+alice 10scores, loses the game
+roy 10scores, loses the game
+zoe 20scores, loses the game
+kito 50scores, wins the game
+may 50scores, wins the game
+david 50scores, loses the game
